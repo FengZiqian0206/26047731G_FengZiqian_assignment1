@@ -66,6 +66,7 @@ The real question is, “Before that happens, what do we want to do with the tim
 Perhaps this is why programming matters to me. In a world that is changing faster and faster, I want to understand the forces that are reshaping us. I would rather actively understand them than wait for them to define me.
 
 References:
+
 Benjamin, W. (1936). The work of art in the age of mechanical reproduction.
 Ihde, D. (1990). Technology and the lifeworld: From garden to earth. Indiana University Press.
 LeWitt, S. (1967). Paragraphs on conceptual art. Artforum, 5(10), 79–83.
