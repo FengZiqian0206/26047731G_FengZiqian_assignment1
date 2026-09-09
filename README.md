@@ -1,20 +1,67 @@
-问题一：描述与精确定义的鸿沟
 
-经过专业训练的艺术家或设计师，大多能够借助 AI 做出更好的效果 —— 这种能力不仅体现在审美判断上，也体现在项目推进的逻辑和对细节的把控之中。如今的设计与艺术创作已高度复杂化：用 AI 做一张海报，人与人的差距或许并不显著；但一旦涉及复杂项目 —— 例如游戏设计等复杂项目 —— 差距就会被急剧放大。
-我曾在中央美术学院国际学院担任助教，当时每个学生都是第一次接触 AI 制作长视频，但最终产出差异极大：有人的作品只是素材的堆砌，有人却能借助 AI 构建出完整的影像叙事。这说明借助 AI 进行设计本身就是一种能力 —— 它要求创作者既懂自己想要什么，也懂系统能做什么、不能做什么，以及如何在二者之间反复协商。
-艺术家索尔・勒维特（Sol LeWitt）在 1967 年的《观念艺术断句》中写道："观念是制造艺术的机器。"（The idea is the machine that makes the art.）在他的时代，这意味着艺术家可以将执行委托给他人；而在今天，AI 正是那台被观念驱动的机器。但勒维特同时强调，观念本身需要被精确表述 —— 模糊的指令只会产生模糊的结果。这正是 "描述" 与 "精确定义" 之间的鸿沟：描述是愿望的表达，精确定义则是对愿望的结构化拆解，是将直觉转化为可执行参数的能力。
-不可否认，随着 AI 越来越智能，它对复杂任务的处理能力迅速提升，人与人在 "复杂处理" 上的差距正被逐渐抹平。但这并不意味着专业能力失去了价值 —— 它只是在迁移：从 "如何执行" 转向 "如何判断、如何选择、如何在无数可能性中锚定自己的声音"。
+Question 1: The Gap Between Description and Precise Definition
 
-问题三：媒介材料
+Artists and designers with professional training can usually use AI to create better results. This ability is not only about visual taste. It also comes from knowing how to develop a project and how to control details.
 
-我不知道理解媒介究竟能为创作带来多少具体好处，但我确信它不会带来坏处。
-这听起来像是一个保守的立场，但它来自我生活中的一种本能：购买食品时，我总是想要了解每种添加剂的功能和作用机理。即使已有研究明确告知某种成分对健康不利，我依然想要知道它是如何起作用的 —— 这既是消除恐惧，也是一种祛魅的尝试。未知之所以令人不安，不是因为它危险，而是因为它不可被理解、不可被掌控。
-技术哲学家唐・伊德（Don Ihde）论证了技术从来不是中立的工具。在他的 "中介感知" 理论中，技术并非摆在那里等待被使用的对象，而是嵌入了我们与世界的关系之中，改变着我们能看到什么、能想到什么。对我而言，学习编程就是对数字媒介的祛魅：当我知道一行代码背后发生了什么，当我理解 AI 生成图像的概率逻辑，我就不再是那个对着黑盒祈祷的用户，而是可以有意识地介入、修改，甚至拒绝系统给出的默认方案。
+Design and art projects today are becoming more complex. If two people use AI to make a poster, the difference between them may not be very obvious. But when the project becomes more complicated, such as game design, the difference becomes much greater.
 
-问题四：历史类比
+I once worked as a teaching assistant at the International College of the Central Academy of Fine Arts. At that time, every student was using AI to make long videos for the first time. However, the final results were very different. Some works were only collections of different materials. Others used AI to build a complete visual story.
 
-当年人们认为摄影会终结绘画，合成器会毁灭音乐，1965 年弗里德・纳克（Frieder Nake）和格奥尔格・内斯（Georg Nees）在斯图加特举办计算机艺术展时，也被指责制造了终将取代艺术家的机器。
-我的观点可能比大多数人更为激进：任何形式的人类活动都会被取代，甚至包括人的肉体本身。很多技术、艺术、哲学和文化都是暂时性的，因此 AI 取代任何事情都理所应当。
-这不是悲观，而是一种历史的诚实。瓦尔特・本雅明（Walter Benjamin）在 1936 年的《机械复制时代的艺术作品》中指出，机械复制技术消解了艺术作品的 "灵韵"（aura）—— 那种源于原作 "此时此地" 的独一无二性。但他并没有因此哀叹艺术的终结，而是看到了艺术功能的转变：当艺术不再被崇拜价值所束缚，它就获得了政治和社会的新可能。摄影没有杀死绘画，而是迫使绘画放弃了对再现的垄断。
-然而，我也不认为这是一场危机。AI 取代任何事情我都感到兴奋，这是常态。真正的问题不是 "我们会不会被取代"，而是 "在被取代之前，我们想用这段时间做什么"。或许编程，对我来说，就是在这个加速变化的时代里，主动选择理解正在重塑我们的那种力量，而不是被动地等待它来定义我们。
+This shows that designing with AI is also a skill. The creator needs to understand what they want. They also need to understand what the system can and cannot do. Most importantly, they need to keep adjusting between these two sides.
+
+In 1967, artist Sol LeWitt wrote in *Sentences on Conceptual Art*: “The idea becomes a machine that makes the art.”
+
+In his time, this meant that an artist could give the work of execution to someone else. Today, AI can be seen as a machine driven by ideas.
+
+But LeWitt also emphasized that an idea must be clearly defined. A vague instruction usually creates a vague result.
+
+This is the gap between “description” and “precise definition.” Description expresses what we want. Precise definition breaks that desire into a clear structure. It turns intuition into something that can actually be executed.
+
+AI is becoming more intelligent, and its ability to deal with complex tasks is improving very quickly. Because of this, the difference between people in terms of technical execution may become smaller.
+
+However, this does not mean professional skills are becoming useless. Their value is simply moving to another area. The important questions are no longer only “How do I make this?” They are becoming “How do I judge this?”, “What should I choose?”, and “How do I keep my own voice among so many possibilities?”
+
+Question 3: Understanding the Medium
+
+I do not know exactly how much understanding a medium can improve creative work. But I am sure that it does not make the work worse.
+
+This may sound like a conservative position, but it comes from one of my habits in daily life. When I buy food, I often want to know what every additive does and how it works.
+
+Even if research already shows that an ingredient may be harmful to health, I still want to know how it affects the body. For me, this is a way to reduce fear. It is also a way to remove the mystery around something.
+
+The unknown is uncomfortable not only because it may be dangerous. It is uncomfortable because we cannot understand it or control it.
+
+Philosopher of technology Don Ihde argued that technology is never a neutral tool. In his theory of technological mediation, technology is not simply an object waiting for us to use it. It becomes part of the relationship between us and the world.
+
+Technology changes what we can see. It also changes what we can think about.
+
+For me, learning programming is a way to remove the mystery from digital media. When I know what happens behind a line of code, or when I understand the probability-based logic behind AI image generation, I am no longer just a user looking at a black box and hoping for a good result.
+
+Instead, I can make conscious decisions. I can change the system. I can adjust it. I can even reject its default choices.
+
+Question 4: Historical Comparison
+
+In the past, people believed photography would end painting. Some believed synthesizers would destroy music. In 1965, when Frieder Nake and Georg Nees presented computer art in Stuttgart, people also criticized them for creating machines that might one day replace artists.
+
+My view may be more radical than most people's. I believe every form of human activity can eventually be replaced. Even the human body itself may one day be replaced or transformed.
+
+Many technologies, art forms, philosophies, and cultures are temporary. Because of this, I think it is natural that AI may replace many things.
+
+I do not see this as pessimism. I see it as being honest about history.
+
+In his 1936 essay *The Work of Art in the Age of Mechanical Reproduction*, Walter Benjamin argued that mechanical reproduction weakened the “aura” of an artwork. This aura came from the unique “here and now” of the original object.
+
+However, Benjamin did not simply say that art was coming to an end. Instead, he saw that the function of art was changing.
+
+When art was no longer controlled by its traditional ritual and worship value, it gained new political and social possibilities.
+
+Photography did not kill painting. Instead, it forced painting to give up its control over realistic representation and find new directions.
+
+I also do not see AI as a crisis. I actually feel excited about the idea that AI may replace many things. I see replacement as a normal part of technological change.
+
+For me, the real question is not, “Will we be replaced?”
+
+The real question is, “Before that happens, what do we want to do with the time we have?”
+
+Perhaps this is why programming matters to me. In a world that is changing faster and faster, I want to understand the forces that are reshaping us. I would rather actively understand them than wait for them to define me.
 
